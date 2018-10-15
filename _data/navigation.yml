@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Crypto Portfolio"
+  - title: "Cryptocurrency Tracker"
     url: /Crypto/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
