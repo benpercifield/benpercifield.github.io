@@ -7,4 +7,4 @@ header:
 
 ---
 
-My name is Ben and I am trying to show off what I can do!
+My name is Ben and I am trying to show off what I have done
