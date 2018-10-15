@@ -1,6 +1,6 @@
 ---
 title:  "Crypto Portfolio"
-permalink: /crypto-portfolio/
+permalink: /crypto/
 author_profile: true
 header:
   image: "/images/currency.png"
