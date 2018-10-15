@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Ben Percifield"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "虽然我叫笨但是我本人并不太笨"
+  bio              : "Online Portfolio"
   location         : "Chicago, IL"
-  email            :
+  email            : "benpercifield@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
