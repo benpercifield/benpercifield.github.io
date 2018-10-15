@@ -118,13 +118,13 @@ author:
       url: "https://twitter.com/penbercifield"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/fartknocker"
+      # url: "https://facebook.com/fartknocker"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benpercifield"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/benpercifield"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/benpercifield"
 
 # Site Footer
 footer:
