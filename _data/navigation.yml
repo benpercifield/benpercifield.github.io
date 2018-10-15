@@ -5,7 +5,7 @@ main:
   - title: "Cryptocurrency Tracker"
     url: /Crypto/
   - title: "Resume"
-    url: /resume/
+    url: /Resume/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
