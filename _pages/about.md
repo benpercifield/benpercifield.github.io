@@ -1,4 +1,8 @@
 ---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title:  "About"
 permalink: /about/
 author_profile: true
