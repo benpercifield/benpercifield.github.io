@@ -7,7 +7,6 @@
    ========================================================================== */
 
 .sidebar {
-  color: #6b717f;
   @include clearfix();
   @include breakpoint(max-width $large) {
     /* fix z-index order of follow links */
@@ -26,7 +25,6 @@
 
     &:hover {
       opacity: 1;
-      color: ;
     }
 
     &.sticky {
@@ -75,7 +73,6 @@
 
 .sidebar__right {
   margin-bottom: 1em;
-  color: #ce0a0a;
 
   @include breakpoint($large) {
     position: absolute;
@@ -156,7 +153,7 @@
   }
 
   a {
-    color: inherit;
+    color: #6b717f;
     text-decoration: none;
   }
 }
@@ -220,7 +217,7 @@
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  background: $background-color;
+  background: #ffffff;
   z-index: -1;
   box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
   cursor: default;
@@ -235,7 +232,7 @@
     margin: 0;
     padding: 0;
     border: 0;
-    background: transparent;
+    background: #ffffff;
     box-shadow: none;
   }
 
