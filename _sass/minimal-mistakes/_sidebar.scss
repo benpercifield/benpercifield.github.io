@@ -7,6 +7,7 @@
    ========================================================================== */
 
 .sidebar {
+  color: #6b717f;
   @include clearfix();
   @include breakpoint(max-width $large) {
     /* fix z-index order of follow links */
@@ -25,7 +26,7 @@
 
     &:hover {
       opacity: 1;
-      color: #6b717f;
+      color: ;
     }
 
     &.sticky {
@@ -74,6 +75,7 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  color: #ce0a0a;
 
   @include breakpoint($large) {
     position: absolute;
@@ -83,7 +85,7 @@
     margin-right: -1 * $right-sidebar-width-narrow;
     padding-left: 1em;
     z-index: 10;
-    color: #ce0a0a;
+
 
     &.sticky {
       @include clearfix();
