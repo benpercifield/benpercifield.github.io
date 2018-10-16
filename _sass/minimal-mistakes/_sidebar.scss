@@ -24,7 +24,8 @@
     transition: opacity 0.2s ease-in-out;
 
     &:hover {
-      opacity: 1;
+      opacity: .75;
+      color: #6b717f;
     }
 
     &.sticky {
@@ -63,7 +64,7 @@
 
   img {
     width: 100%;
-    
+
     &.emoji {
       width: 20px;
       height: 20px;
@@ -315,4 +316,3 @@
     margin-right: initial;
   }
 }
-
