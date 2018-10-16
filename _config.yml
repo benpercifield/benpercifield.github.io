@@ -300,6 +300,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-sidebar:
-  background: white;
