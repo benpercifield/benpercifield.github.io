@@ -11,8 +11,8 @@ header:
 
 ---
 
-## My name is Ben and I am trying to show off what I have done on the internet
+## My Name is Ben Percifield and This is A Personal Website
 
-### This is some sort of Portfolio
+### Consider it to be some sort of Portfolio
 
-Maybe at some point I will organzie this! 
+Maybe at some point I will organize this! 
