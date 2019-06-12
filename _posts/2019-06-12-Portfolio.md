@@ -45,5 +45,5 @@ A press release for the Global CSR Foundation:
 * [Global CSR Foundation Promotes Woman’s Empowerment at the CSW](https://www.businesswire.com/news/home/20190322005495/en/Global-CSR-Foundation-Promotes-Woman%E2%80%99s-Empowerment-CSW)
 
 I also helped design/maintain the following websites:
-* [ChinaWise Business Consulting](www.chinawiseusa.com)
-* [Global CSR Foundation](www.gcsrf.org)
+* [ChinaWise Business Consulting](https://www.chinawiseusa.com)
+* [Global CSR Foundation](https://www.gcsrf.org)
