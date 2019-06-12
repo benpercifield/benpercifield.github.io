@@ -12,11 +12,27 @@ Check out some videos that I have made on my facebook page:
 * [Bem](https://www.facebook.com/myarteregobem/)
 
 And Some other Videos on Youtube:
-* [![Trip to Nanjing](https://img.youtube.com/vi/Ak6ktH-OLyw/0.jpg)](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
-* [![YOUniversity Promo Video](https://img.youtube.com/vi/LyKZYl6nENY/0.jpg)](https://www.youtube.com/watch?v=LyKZYl6nENY)
-* [![Loopring One Minute Explainer Video](https://img.youtube.com/vi/G4nFStAbOLM/0.jpg)](https://www.youtube.com/watch?v=G4nFStAbOLM)
-* [![Elastos First DApp Meetup Highlights](https://img.youtube.com/vi/bPWkCN8CMYc/0.jpg)](https://www.youtube.com/watch?v=bPWkCN8CMYc)
-* [![Schwarzman Scholars Resident Assistant Application Video](https://img.youtube.com/vi/d9rppAA913s/0.jpg)](https://www.youtube.com/watch?v=d9rppAA913s)
+
+* Trip to Nanjing
+
+[![Trip to Nanjing](https://img.youtube.com/vi/Ak6ktH-OLyw/0.jpg)](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
+
+* YOUniversity Promo Video
+
+[![YOUniversity Promo Video](https://img.youtube.com/vi/LyKZYl6nENY/0.jpg)](https://www.youtube.com/watch?v=LyKZYl6nENY)
+
+* Loopring One Minute Explainer Video
+
+[![Loopring One Minute Explainer Video](https://img.youtube.com/vi/G4nFStAbOLM/0.jpg)](https://www.youtube.com/watch?v=G4nFStAbOLM)
+
+* Elastos First DApp Meetup Highlights
+
+[![Elastos First DApp Meetup Highlights](https://img.youtube.com/vi/bPWkCN8CMYc/0.jpg)](https://www.youtube.com/watch?v=bPWkCN8CMYc)
+
+* Schwarzman Scholars Resident Assistant Application Video
+
+[![Schwarzman Scholars Resident Assistant Application Video](https://img.youtube.com/vi/d9rppAA913s/0.jpg)](https://www.youtube.com/watch?v=d9rppAA913s)
+
 
 Here are some press releases I have written for Chinese Cryptocurrencies:
 * [China Daily: Cortex - Smarter Contracts](http://www.chinadaily.com.cn/a/201806/09/WS5b1ae557a31001b82571f0b2_4.html)
