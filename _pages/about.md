@@ -3,17 +3,13 @@ layout: splash
 classes:
   - landing
   - dark-theme
-title:  "About"
+title:  "Portfolio"
 permalink: /about/
 author_profile: true
-header:
-  image: "/images/purp.png"
 
 ---
 
-## My Name is Ben Percifield and this is my Personal Website
-
-### Consider it to be some sort of Portfolio
+## Portfolio
 
 Check out some videos that I have made on my facebook page:
 * [Bem](https://www.facebook.com/myarteregobem/)
