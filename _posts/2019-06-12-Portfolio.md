@@ -13,23 +13,24 @@ Check out some videos that I have made on my facebook page:
 
 And Some other Videos on Youtube:
 
-* Trip to Nanjing
+* [Trip to Nanjing](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
+
 
 [![Trip to Nanjing](https://img.youtube.com/vi/Ak6ktH-OLyw/0.jpg)](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
 
-* YOUniversity Promo Video
+* [YOUniversity Promo Video](https://www.youtube.com/watch?v=LyKZYl6nENY)
 
 [![YOUniversity Promo Video](https://img.youtube.com/vi/LyKZYl6nENY/0.jpg)](https://www.youtube.com/watch?v=LyKZYl6nENY)
 
-* Loopring One Minute Explainer Video
+* [Loopring One Minute Explainer Video](https://www.youtube.com/watch?v=G4nFStAbOLM)
 
 [![Loopring One Minute Explainer Video](https://img.youtube.com/vi/G4nFStAbOLM/0.jpg)](https://www.youtube.com/watch?v=G4nFStAbOLM)
 
-* Elastos First DApp Meetup Highlights
+* [Elastos First DApp Meetup Highlights](https://www.youtube.com/watch?v=bPWkCN8CMYc)
 
 [![Elastos First DApp Meetup Highlights](https://img.youtube.com/vi/bPWkCN8CMYc/0.jpg)](https://www.youtube.com/watch?v=bPWkCN8CMYc)
 
-* Schwarzman Scholars Resident Assistant Application Video
+* [Schwarzman Scholars Resident Assistant Application Video](https://www.youtube.com/watch?v=d9rppAA913s)
 
 [![Schwarzman Scholars Resident Assistant Application Video](https://img.youtube.com/vi/d9rppAA913s/0.jpg)](https://www.youtube.com/watch?v=d9rppAA913s)
 
