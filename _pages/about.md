@@ -3,7 +3,7 @@ layout: splash
 classes:
   - landing
   - dark-theme
-title:  "Portfolio"
+title:  "About"
 permalink: /about/
 author_profile: true
 
