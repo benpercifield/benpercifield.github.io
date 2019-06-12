@@ -13,6 +13,7 @@ Check out some videos that I have made on my facebook page:
 
 And Some other Videos on Youtube:
 * [Trip to Nanjing](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
+* [YOUniversity Promo Video](https://youtu.be/LyKZYl6nENY)
 * [Loopring One Minute Explainer Video](https://www.youtube.com/watch?v=G4nFStAbOLM)
 * [Elastos First DApp Meetup Highlights](https://youtu.be/bPWkCN8CMYc)
 * [Schwarzman Scholars Resident Assistant Application Video](https://youtu.be/d9rppAA913s)
