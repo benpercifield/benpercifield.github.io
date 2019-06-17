@@ -49,7 +49,7 @@ Press releases for the Global CSR Foundation:
 
 Translations for Goldwind Science & Technology:
 * [Annual Report 2016](https://www.slideshare.net/slideshow/embed_code/key/vhy3SsNwN5j8tU)
-  * [Interim Report 2016](https://www.slideshare.net/slideshow/embed_code/key/x7a0gycJ3S19AO)
+* [Interim Report 2016](https://www.slideshare.net/slideshow/embed_code/key/x7a0gycJ3S19AO)
 
 I also helped design/maintain the following websites:
 * [ChinaWise Business Consulting](https://www.chinawiseusa.com)
