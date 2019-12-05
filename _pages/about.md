@@ -9,12 +9,6 @@ author_profile: true
 
 ---
 
-<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="320" HEIGHT="240" id="Yourfilename" ALIGN="">
-<PARAM NAME=movie VALUE="DragBen.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#333399> <EMBED src="https://benpercifield.github.io/DragBen.swf" quality=high bgcolor=#333399 WIDTH="320" HEIGHT="240" NAME="Yourfilename" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED> </OBJECT>
-
-
-<p><iframe src="https://benpercifield.github.io/DragBen.swf" width="100%" height="640"></iframe></p>
-
 ## Portfolio
 
 Check out some videos that I have made on my facebook page:
