@@ -30,6 +30,12 @@ I also helped design/maintain the following websites:
 
 Check out some Videos I have on Youtube:
 
+* [Aurora Brandealis](https://www.youtube.com/watch?v=FwwQmDsgi1g)
+
+
+[![Aurora Brandealis](https://img.youtube.com/vi/FwwQmDsgi1g/0.jpg)](https://www.youtube.com/watch?v=FwwQmDsgi1g)
+
+
 * [Trip to Nanjing](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
 
 
