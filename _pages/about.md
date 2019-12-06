@@ -17,7 +17,7 @@ Check out some videos that I have made on my facebook page:
 * [Bem](https://www.facebook.com/myarteregobem/)
 
 And Some other Videos on Youtube:
-* Aurora Brandealis <iframe width="560" height="315" src="https://www.youtube.com/embed/FwwQmDsgi1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [Aurora Brandealis](https://www.youtube.com/watch?v=FwwQmDsgi1g)
 * [Trip to Nanjing](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
 * [YOUniversity Promo Video](https://youtu.be/LyKZYl6nENY)
 * [Loopring One Minute Explainer Video](https://www.youtube.com/watch?v=G4nFStAbOLM)
