@@ -20,3 +20,7 @@ permalink: /ideas/
 
 
 [![Aurora Brandealis](https://img.youtube.com/vi/FwwQmDsgi1g/0.jpg)](https://www.youtube.com/watch?v=FwwQmDsgi1g)
+
+* Impossible Slider Roulette
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Meat Roulette"
