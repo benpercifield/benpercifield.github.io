@@ -17,9 +17,9 @@ permalink: /ideas/
 ## Ideas
 
 * [Aurora Brandealis](https://www.youtube.com/watch?v=FwwQmDsgi1g)  
-* This is an experiental activation for a brand on a budget - giving consumers the ability to take control of their experience, controlling their own surprise light show!
-[![Aurora Brandealis](https://img.youtube.com/vi/FwwQmDsgi1g/0.jpg)](https://www.youtube.com/watch?v=FwwQmDsgi1g)
+* This winter choose AURORA BRANDEALIS for your brand's experiental activation on a budget - giving consumers the ability to take control of their experience, adding their own dyanimism and mark on a surprise light show!
+* [![Aurora Brandealis](https://img.youtube.com/vi/FwwQmDsgi1g/0.jpg)](https://www.youtube.com/watch?v=FwwQmDsgi1g)
 
 * Impossible Slider Roulette 
-* Meat-eaters, get ready to put your tastebuds on green! Can you find the sheep in wolves' clothing? To celebrate White Castle's partnership with Impossible Foods, we are hiding four 100% real fake meat veggie burgers in our 16 packs 
-![alt text](https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette")
+* Meat-eaters, get ready to put your tastebuds on green! Can you find the sheep in wolves' clothing? To celebrate White Castle's partnership with Impossible Foods, we are hiding four 100% real fake meat veggie burgers in our microwaveable 16 packs. 
+* ![alt text](https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette")
