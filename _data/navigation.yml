@@ -6,6 +6,9 @@ main:
     url: /Crypto/
   - title: "Resume"
     url: /Resume/
+  - title: "Ideas"
+    url: /ideas/
+    
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
