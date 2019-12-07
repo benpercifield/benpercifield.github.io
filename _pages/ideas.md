@@ -23,4 +23,4 @@ permalink: /ideas/
 
 * Impossible Slider Roulette
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Meat Roulette"
+[logo]: https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette"
