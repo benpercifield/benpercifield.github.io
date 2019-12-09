@@ -18,7 +18,7 @@ permalink: /ideas/
 * This winter choose AURORA BRANDEALIS for your brand's experiental activation on a budget - giving consumers the ability to take control of their experience, adding their own dyanimism and mark on a surprise light show! CLICK FOR VIDEO:
 
 ## Impossible Slider Roulette 
-* ![alt text](https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette")
+ ![alt text](https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette")
 * Meat-eaters, get ready to put your tastebuds on green! Can you find the sheep in wolves' clothing? To celebrate White Castle's partnership with Impossible Foods, we are hiding four 100% real fake meat veggie burgers in our microwaveable 16 packs. 
 
 ## Brand Affirmation AR Instagram Mask
