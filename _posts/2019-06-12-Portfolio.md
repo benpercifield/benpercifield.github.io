@@ -6,7 +6,7 @@ excerpt: "This is my Writing Portfolio"
 ---
 
 
-## Portfolio
+## Writing Portfolio
 
 Here are some press releases I have written for Chinese Cryptocurrencies:
 * [China Daily: Cortex - Smarter Contracts](http://www.chinadaily.com.cn/a/201806/09/WS5b1ae557a31001b82571f0b2_4.html)
@@ -23,10 +23,14 @@ Translations for Goldwind Science & Technology:
 * [Annual Report 2016](https://www.slideshare.net/slideshow/embed_code/key/vhy3SsNwN5j8tU)
 * [Interim Report 2016](https://www.slideshare.net/slideshow/embed_code/key/x7a0gycJ3S19AO)
 
+## Website Portfolio
+
 I also helped design/maintain the following websites:
 * [ChinaWise Business Consulting](https://www.chinawiseusa.com)
 * [Global CSR Foundation](https://www.gcsrf.org)
 * [This very website](https://benpercifield.github.io)
+
+## Video Portfolio
 
 Check out some Videos I have on Youtube:
 
