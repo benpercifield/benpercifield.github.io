@@ -8,6 +8,10 @@ permalink: /ideas/
 
 ---
 
+## Social Content Creator Bio
+
+ <IMG SRC="https://benpercifield.github.io/Social.gif">
+
 ## Drag me
 
 
