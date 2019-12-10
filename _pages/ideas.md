@@ -12,6 +12,8 @@ permalink: /ideas/
 <center>
  <IMG SRC="https://benpercifield.github.io/Social.gif">
    </center>
+* You can see a full quality video here: https://youtu.be/MKG92QxSP2Y 
+* Right click the video and loop it when you watch it
 
 
 ## Aurora Brandealis
