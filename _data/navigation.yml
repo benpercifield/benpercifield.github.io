@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "Writing Portfolio"
+    url: /Portfolio/
   - title: "Cryptocurrency Tracker"
     url: /Crypto/
-  - title: "Resume"
+  - title: "CV"
     url: /Resume/
-  - title: "Ideas"
+  - title: "Social Content Ideas"
     url: /ideas/
     
 
