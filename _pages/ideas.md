@@ -22,6 +22,10 @@ permalink: /ideas/
  ![alt text](https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette")
 * Meat-eaters, get ready to put your tastebuds on green! Can you find the sheep in wolves' clothing? To celebrate White Castle's partnership with Impossible Foods, we are hiding four 100% real fake meat veggie burgers in our microwaveable 16 packs. 
 
+## Eggo Ego Death
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oTLlEQXo-gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+* Played at late hours of the night - the Eggo Ego death is a window into the surreal - leaving questions: Why Eggo? What is Ego? Will Eggo prevent ego death? Or will it consume me; my very ego?
+
 ## Brand Affirmation AR Instagram Mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkFDli6fIz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [Branded Positive Affirmation Mask, Instagram Demo:](https://www.instagram.com/a/r/?effect_id=862120040905902&ch=N2UzMDA2NTYwMTUzYWNlMGY5MjQ5M2NmNjA4YTVmZjE=)
