@@ -1,8 +1,8 @@
 ---
-title: "Portfolio"
+title: "Writing Portfolio"
 date: 2019-06-12
 # tags:
-excerpt: "This is my Portfolio"
+excerpt: "This is my Writing Portfolio"
 ---
 
 
