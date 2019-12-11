@@ -48,6 +48,3 @@ permalink: /ideas/
 <iframe src="https://benpercifield.github.io/DragBen.html" width="550" height="350"></iframe>
 * Flash game
 * Don't just pick me, click me - and drag me. The following flash file may only work on desktop but it is fun to drag me. Give it a shot!
-
-
-https://youtu.be/grAlneuaNo8
