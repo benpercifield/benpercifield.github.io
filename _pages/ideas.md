@@ -9,11 +9,9 @@ permalink: /ideas/
 ---
 
 ## Social Content Creator Bio
-<a href="https://youtu.be/MKG92QxSP2Y"> <center>
- <IMG SRC="https://benpercifield.github.io/Social.gif">
-   </center>  </a>
-* Click the gif to watch a full quality video (with music too) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MKG92QxSP2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; loop; picture-in-picture" allowfullscreen></iframe> 
 * Right click the video and loop it when you watch it
+
 
 ## Aurora Brandealis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwwQmDsgi1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
