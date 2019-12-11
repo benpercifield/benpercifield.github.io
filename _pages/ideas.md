@@ -29,6 +29,10 @@ permalink: /ideas/
 * Instagram Stories
 * Played at late hours of the night - the Eggo Ego death is a window into the surreal - leaving questions: Why Eggo? What is Ego? Will Eggo prevent ego death? Or will it consume me; will I leggo my ego?
 
+## TRVL Channel Title Screen Mockup
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grAlneuaNo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Playing off of Travel Channel's new cool logo I wanted to make an edgy/glitchy title screen - check it out!
+
 ## Brand Affirmation AR Instagram Mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkFDli6fIz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * Instagram AR Filter
@@ -44,3 +48,6 @@ permalink: /ideas/
 <iframe src="https://benpercifield.github.io/DragBen.html" width="550" height="350"></iframe>
 * Flash game
 * Don't just pick me, click me - and drag me. The following flash file may only work on desktop but it is fun to drag me. Give it a shot!
+
+
+https://youtu.be/grAlneuaNo8
