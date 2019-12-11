@@ -11,9 +11,8 @@ permalink: /ideas/
 ## Social Content Creator Bio
 <a href="https://youtu.be/MKG92QxSP2Y"> <center>
  <IMG SRC="https://benpercifield.github.io/Social.gif">
-   </center>
-* Watch a full quality video (with music too) here 
- </a>
+   </center>  </a>
+* Click the gif to watch a full quality video (with music too) 
 * Right click the video and loop it when you watch it
 
 ## Aurora Brandealis
