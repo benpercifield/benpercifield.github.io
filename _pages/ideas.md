@@ -12,20 +12,19 @@ permalink: /ideas/
 <center>
  <IMG SRC="https://benpercifield.github.io/Social.gif">
    </center>
-* <a href="https://youtu.be/MKG92QxSP2Y">You can see a full quality video here</a>
+* <a href="https://youtu.be/MKG92QxSP2Y">Watch a full quality video (with music too) here</a>
 * Right click the video and loop it when you watch it
-
 
 ## Aurora Brandealis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwwQmDsgi1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 * Experiential Activation
-* This winter choose AURORA BRANDEALIS for your brand's experiental activation on a budget - giving consumers the ability to take control of their experience, adding their own dyanimism and mark on a surprise light show! CLICK FOR VIDEO:
+* This winter choose AURORA BRANDEALIS for your brand's experiental activation on a budget - giving consumers the ability to take control of their experience, adding their own dyanimism and mark on a surprise light show!
 
 
 ## Eggo Ego Death
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oTLlEQXo-gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 * Instagram Stories
-* Played at late hours of the night - the Eggo Ego death is a window into the surreal - leaving questions: Why Eggo? What is Ego? Will Eggo prevent ego death? Or will it consume me; my very ego?
+* Played at late hours of the night - the Eggo Ego death is a window into the surreal - leaving questions: Why Eggo? What is Ego? Will Eggo prevent ego death? Or will it consume me; will I leggo my ego?
 
 ## Brand Affirmation AR Instagram Mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkFDli6fIz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,7 +35,8 @@ permalink: /ideas/
 ## Geo-targeted Casting Call
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myGUseTuWdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 * Social / Experiential Activation
-* Ads are becoming increasingly geo-targeted - BRAND™ want you to reclaim your space in the algorithm - with a casting call for your micro region to star as an extra in stock footage supporting BRAND™
+* Insight: Ads are becoming increasingly geo-targeted 
+* The Idea: BRAND™ want you to reclaim your space in the algorithm - with a casting call for your micro region to star as an extra in stock footage supporting BRAND™
 
 ## Impossible Slider Roulette 
  ![alt text](https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette")
