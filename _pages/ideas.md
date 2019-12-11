@@ -9,10 +9,10 @@ permalink: /ideas/
 ---
 
 ## Social Content Creator Bio
-<center>
+<a href="https://youtu.be/MKG92QxSP2Y"> <center>
  <IMG SRC="https://benpercifield.github.io/Social.gif">
    </center>
-* <a href="https://youtu.be/MKG92QxSP2Y">Watch a full quality video (with music too) here</a>
+* Watch a full quality video (with music too) here </a>
 * Right click the video and loop it when you watch it
 
 ## Aurora Brandealis
