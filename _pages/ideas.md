@@ -18,6 +18,10 @@ permalink: /ideas/
 * Experiential Activation
 * This winter choose AURORA BRANDEALIS for your brand's experiental activation on a budget - giving consumers the ability to take control of their experience, adding their own dyanimism and mark on a surprise light show!
 
+## DIY Timelapse Mount
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qWM-ViyMI5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* DIY approach to smooth timelapses using only a kitchen timer, a selfie stick, and a phone
+
 ## Geo-targeted Casting Call
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myGUseTuWdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 * Social / Experiential Activation
