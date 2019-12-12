@@ -13,7 +13,6 @@ permalink: /ideas/
 * Right click the video and loop it when you watch it
 
 
-
 ## Aurora Brandealis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwwQmDsgi1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 * Experiential Activation
@@ -30,10 +29,10 @@ permalink: /ideas/
 * Instagram Stories
 * Played at late hours of the night - the Eggo Ego death is a window into the surreal - leaving questions: Why Eggo? What is Ego? Will Eggo prevent ego death? Or will it consume me; will I leggo my ego?
 
-## Global CSR 2019 Summit
-<iframe width="560" height="315" src="https://www.linkedin.com/posts/the-global-csr-foundation_csr-global-gcsrf-activity-6587056796760895488-qhdO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* I helped produce,  from storyboarding to filming, editing to post-production the Global CSR 2019 Summit Video
-* <a href="https://www.linkedin.com/posts/the-global-csr-foundation_csr-global-gcsrf-activity-6587056796760895488-qhdO"> Check it out on Linkedin</a>
+## Global CSR Animated Title Card
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1PemESnDtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Title Card
+* This was an animated title card that I concepted and animated for the Global CSR Foundation - to be played at the beggining of videos.
 
 ## Brand Affirmation AR Instagram Mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkFDli6fIz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
