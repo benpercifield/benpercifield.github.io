@@ -32,12 +32,6 @@ permalink: /ideas/
 * Instagram Stories
 * Played at late hours of the night - the Eggo Ego death is a window into the surreal - leaving questions: Why Eggo? What is Ego? Will Eggo prevent ego death? Or will it consume me; will I leggo my ego?
 
-## Global CSR Animated Title Card
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l1PemESnDtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* Title Card
-* This was an animated title card that I concepted and animated for the Global CSR Foundation - to be played at the end of videos.
-
-
 ## Brand Affirmation AR Instagram Mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkFDli6fIz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * Instagram AR Filter
@@ -48,6 +42,11 @@ permalink: /ideas/
  ![alt text](https://raw.githubusercontent.com/benpercifield/benpercifield.github.io/master/images/meatroulette.jpg "Meat Roulette")
 * Shopper Promotion
 * Meat-eaters, get ready to put your tastebuds on green! Can you find the sheep in wolves' clothing? we are celebrating White Castle's partnership with Impossible Foods by hiding four 100% real fake meat veggie burgers in our microwaveable 16 packs. 
+
+## Global CSR Animated Title Card
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1PemESnDtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Title Card
+* This was an animated title card that I concepted and animated for the Global CSR Foundation - to be played at the end of videos.
 
 ## Drag me
 <iframe src="https://benpercifield.github.io/DragBen.html" width="550" height="350"></iframe>
