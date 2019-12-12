@@ -25,10 +25,9 @@ Translations for Goldwind Science & Technology:
 
 ## Website Portfolio
 
-I also helped design/maintain the following websites:
+I also helped design & maintain the following websites as well as their social media posts:
 * [ChinaWise Business Consulting](https://www.chinawiseusa.com)
 * [Global CSR Foundation](https://www.gcsrf.org)
-* [This very website](https://benpercifield.github.io)
 
 ## Video Portfolio
 
