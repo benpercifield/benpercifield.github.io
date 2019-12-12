@@ -36,7 +36,7 @@ permalink: /ideas/
 ## Global CSR Animated Title Card
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l1PemESnDtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * Title Card
-* This was an animated title card that I concepted and animated for the Global CSR Foundation - to be played at the beggining of videos.
+* This was an animated title card that I concepted and animated for the Global CSR Foundation - to be played at the end of videos.
 
 ## Brand Affirmation AR Instagram Mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkFDli6fIz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
