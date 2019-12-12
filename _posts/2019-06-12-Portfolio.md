@@ -34,6 +34,11 @@ I also helped design/maintain the following websites:
 
 Check out some Videos I have on Youtube:
 
+* [Global CSR Foundation](https://www.youtube.com/watch?v=_0ZvXjMVTZg)
+
+
+[![Global CSR Foundation](https://img.youtube.com/vi/0ZvXjMVTZg/0.jpg)](https://www.youtube.com/watch?v=0ZvXjMVTZg)
+
 * [Aurora Brandealis](https://www.youtube.com/watch?v=FwwQmDsgi1g)
 
 
