@@ -12,11 +12,6 @@ permalink: /ideas/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKG92QxSP2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; loop; picture-in-picture" allowfullscreen></iframe> 
 * Right click the video and loop it when you watch it
 
-## The 6th Annual Omaha Summit
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cryvDB0FCSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-* The Omaha Summit Brings Together investment leaders from across the globe who have seen it all - except for this video I made introducing the upcoming Omaha Summit!
-
-
 ## Aurora Brandealis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwwQmDsgi1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 * Experiential Activation
@@ -41,6 +36,10 @@ permalink: /ideas/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l1PemESnDtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * Title Card
 * This was an animated title card that I concepted and animated for the Global CSR Foundation - to be played at the end of videos.
+
+## The 6th Annual Omaha Summit
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cryvDB0FCSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+* The Omaha Summit Brings Together investment leaders from across the globe who have seen it all - except for this video I concepted introducing the upcoming Omaha Summit!
 
 ## Brand Affirmation AR Instagram Mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkFDli6fIz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
