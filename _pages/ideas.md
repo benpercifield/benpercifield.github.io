@@ -14,7 +14,7 @@ permalink: /ideas/
 * Don't just pick me, click me - or hire me! 
 
 ## ChadStick
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpgv8ybaB38vzN-gMo2rK2_XqhvuPpxw2p2q4tHxYDD2-Ygr8K6Q7Jw3viUbiUD9Gp_N84z-8QQQ8x/embed?start=true&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpgv8ybaB38vzN-gMo2rK2_XqhvuPpxw2p2q4tHxYDD2-Ygr8K6Q7Jw3viUbiUD9Gp_N84z-8QQQ8x/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Nutter Butter Tweets
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shout out to all my <a href="https://twitter.com/hashtag/NutterBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterBrothers</a>, <a href="https://twitter.com/hashtag/NutterMothers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterMothers</a>, <a href="https://twitter.com/hashtag/NutterFathers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterFathers</a>, <a href="https://twitter.com/hashtag/NutterSisters?src=hash&amp;ref_src=twsrc%5Etfw">#NutterSisters</a> and the family&#39;s exchange student <a href="https://twitter.com/hashtag/N%C3%BCtt%C3%ABrB%C5%ABtt%C4%93r?src=hash&amp;ref_src=twsrc%5Etfw">#NüttërBūttēr</a></p>&mdash; Nutter Butter (@NutterButter) <a href="https://twitter.com/NutterButter/status/1170047269640560642?ref_src=twsrc%5Etfw">September 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
