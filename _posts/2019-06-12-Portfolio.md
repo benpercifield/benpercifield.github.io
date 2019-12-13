@@ -13,7 +13,6 @@ I am published in China Daily for writing about Cortex, a blockchain project whi
 * [Cortex: Smarter Contracts](http://usa.chinadaily.com.cn/a/201806/09/WS5b1ae55ba31001b82571f0b4.html)
 
 Here are some press releases I have written for Chinese Cryptocurrencies:
-* [China Daily: Cortex - Smarter Contracts](http://www.chinadaily.com.cn/a/201806/09/WS5b1ae557a31001b82571f0b2_4.html)
 * [Dr. Feng Han of Elastos to Speak at CryptoCon 2018](https://www.intellasia.net/dr-feng-han-of-elastos-to-speak-at-cryptocon-2018-651389)
 * [Crypto Leaders Address State Industry CryptoCon 2018](https://www.businesswire.com/news/home/20180215006477/en/Crypto-Leaders-Address-State-Industry-CryptoCon-2018)
 * [TopFund Invests Millions of Dollars in Hash Credit: The Blockchain-Based “Credit Engine”](https://www.businesswire.com/news/home/20180530006326/en/TopFund-Invests-Millions-Dollars-Hash-Credit-Blockchain-Based)
