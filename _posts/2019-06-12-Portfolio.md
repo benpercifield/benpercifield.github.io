@@ -10,7 +10,7 @@ excerpt: "This is my Writing Portfolio"
 
 I am published in China Daily for writing about Cortex, a blockchain project which incentivizes AI project collaboration
 
-* http://usa.chinadaily.com.cn/a/201806/09/WS5b1ae55ba31001b82571f0b4.html
+* [Cortex: Smarter Contracts](http://usa.chinadaily.com.cn/a/201806/09/WS5b1ae55ba31001b82571f0b4.html)
 
 Here are some press releases I have written for Chinese Cryptocurrencies:
 * [China Daily: Cortex - Smarter Contracts](http://www.chinadaily.com.cn/a/201806/09/WS5b1ae557a31001b82571f0b2_4.html)
