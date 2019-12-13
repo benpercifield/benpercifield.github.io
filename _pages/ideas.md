@@ -12,6 +12,10 @@ permalink: /ideas/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKG92QxSP2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; loop; picture-in-picture" allowfullscreen></iframe> 
 * Right click the video and loop it when you watch it
 
+## Nutter Butter Tweets
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shout out to all my <a href="https://twitter.com/hashtag/NutterBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterBrothers</a>, <a href="https://twitter.com/hashtag/NutterMothers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterMothers</a>, <a href="https://twitter.com/hashtag/NutterFathers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterFathers</a>, <a href="https://twitter.com/hashtag/NutterSisters?src=hash&amp;ref_src=twsrc%5Etfw">#NutterSisters</a> and the family&#39;s exchange student <a href="https://twitter.com/hashtag/N%C3%BCtt%C3%ABrB%C5%ABtt%C4%93r?src=hash&amp;ref_src=twsrc%5Etfw">#NüttërBūttēr</a></p>&mdash; Nutter Butter (@NutterButter) <a href="https://twitter.com/NutterButter/status/1170047269640560642?ref_src=twsrc%5Etfw">September 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Aurora Brandealis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwwQmDsgi1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 * Experiential Activation
