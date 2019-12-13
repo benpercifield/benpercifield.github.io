@@ -42,17 +42,6 @@ I also helped design & maintain the following websites as well as their social m
 
 Check out some Videos I have on Youtube:
 
-* [Global CSR Foundation](https://www.youtube.com/watch?v=_0ZvXjMVTZg)
-
-
-[![Global CSR Foundation](https://img.youtube.com/vi/0ZvXjMVTZg/0.jpg)](https://www.youtube.com/watch?v=0ZvXjMVTZg)
-
-* [Aurora Brandealis](https://www.youtube.com/watch?v=FwwQmDsgi1g)
-
-
-[![Aurora Brandealis](https://img.youtube.com/vi/FwwQmDsgi1g/0.jpg)](https://www.youtube.com/watch?v=FwwQmDsgi1g)
-
-
 * [Trip to Nanjing](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
 
 
@@ -74,6 +63,7 @@ Check out some Videos I have on Youtube:
 
 [![Schwarzman Scholars Resident Assistant Application Video](https://img.youtube.com/vi/d9rppAA913s/0.jpg)](https://www.youtube.com/watch?v=d9rppAA913s)
 
+## Facebook
 
 Check out some videos that I have made on my facebook page:
 * [Bem](https://www.facebook.com/myarteregobem/)
