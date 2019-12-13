@@ -30,7 +30,13 @@ Translations for Goldwind Science & Technology:
 
 I also helped design & maintain the following websites as well as their social media posts:
 * [ChinaWise Business Consulting](https://www.chinawiseusa.com)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our CEO (Jing Zhao) got the honor to travel to NYC to be a part of the 15th-anniversary celebration of Chinese Cultural Foundation (CCF) recently. <br>Many more exciting events coming soon.<br>ChinaWise wishes everyone a Happy Holiday. <a href="https://twitter.com/hashtag/chinausa?src=hash&amp;ref_src=twsrc%5Etfw">#chinausa</a> <a href="https://twitter.com/hashtag/chinesebusiness?src=hash&amp;ref_src=twsrc%5Etfw">#chinesebusiness</a> <a href="https://twitter.com/hashtag/internationalbusiness?src=hash&amp;ref_src=twsrc%5Etfw">#internationalbusiness</a> <a href="https://t.co/PGdiSmrhFB">pic.twitter.com/PGdiSmrhFB</a></p>&mdash; Jing Zhao Cesarone (@chinawise) <a href="https://twitter.com/chinawise/status/1076492625962770433?ref_src=twsrc%5Etfw">December 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * [Global CSR Foundation](https://www.gcsrf.org)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WHO WE ARE:<br>​<br>GCSRF is a community of business and civic leaders who share a clear vision of social responsibilities working on behalf of global businesses. The membership criteria promotes socially responsible companies and financial institutions with a focus on impact investing</p>&mdash; Global CSR Foundation (@GCSRFoundation) <a href="https://twitter.com/GCSRFoundation/status/1057798663882395653?ref_src=twsrc%5Etfw">November 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Video Portfolio
 
