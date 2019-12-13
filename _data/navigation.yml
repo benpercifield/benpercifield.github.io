@@ -1,13 +1,13 @@
 # main links
 main:
+  - title: "Social Content Portfolio"
+    url: /ideas/
   - title: "Writing Portfolio"
     url: /Portfolio/
   - title: "Cryptocurrency Tracker"
     url: /Crypto/
   - title: "Resume"
     url: /Resume/
-  - title: "Social Content Portfolio"
-    url: /ideas/
     
 
   # - title: "About"
