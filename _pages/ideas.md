@@ -14,7 +14,8 @@ permalink: /ideas/
 
 ## Nutter Butter Tweets
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shout out to all my <a href="https://twitter.com/hashtag/NutterBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterBrothers</a>, <a href="https://twitter.com/hashtag/NutterMothers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterMothers</a>, <a href="https://twitter.com/hashtag/NutterFathers?src=hash&amp;ref_src=twsrc%5Etfw">#NutterFathers</a>, <a href="https://twitter.com/hashtag/NutterSisters?src=hash&amp;ref_src=twsrc%5Etfw">#NutterSisters</a> and the family&#39;s exchange student <a href="https://twitter.com/hashtag/N%C3%BCtt%C3%ABrB%C5%ABtt%C4%93r?src=hash&amp;ref_src=twsrc%5Etfw">#NüttërBūttēr</a></p>&mdash; Nutter Butter (@NutterButter) <a href="https://twitter.com/NutterButter/status/1170047269640560642?ref_src=twsrc%5Etfw">September 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bet we can&#39;t keep this at 50/50​<br>​<br>Which are you?</p>&mdash; Nutter Butter (@NutterButter) <a href="https://twitter.com/NutterButter/status/1177276231378722823?ref_src=twsrc%5Etfw">September 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="da" dir="ltr">NUTTER BUTTER​<br><br>NUTTE BUTTE​<br><br>░░░░ ░░░░</p>&mdash; Nutter Butter (@NutterButter) <a href="https://twitter.com/NutterButter/status/1177598771351490564?ref_src=twsrc%5Etfw">September 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Aurora Brandealis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwwQmDsgi1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
