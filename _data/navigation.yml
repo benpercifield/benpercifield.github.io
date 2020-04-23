@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Social Content Portfolio"
-    url: /ideas/
+  - title: "Social Content"
+    url: /socialContent/
   - title: "Writing Portfolio"
     url: /Portfolio/
   - title: "Cryptocurrency Tracker"
