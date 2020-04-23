@@ -4,7 +4,7 @@ classes:
   - landing
   - dark-theme
 title:  "Social Content Portfolio"
-permalink: /socialcontent/
+permalink: /socialContent/
 
 ---
 
