@@ -36,35 +36,3 @@ I also helped design & maintain the following websites as well as their social m
 * [Global CSR Foundation](https://www.gcsrf.org)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">WHO WE ARE:<br>​<br>GCSRF is a community of business and civic leaders who share a clear vision of social responsibilities working on behalf of global businesses. The membership criteria promotes socially responsible companies and financial institutions with a focus on impact investing</p>&mdash; Global CSR Foundation (@GCSRFoundation) <a href="https://twitter.com/GCSRFoundation/status/1057798663882395653?ref_src=twsrc%5Etfw">November 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-## Video Portfolio
-
-Check out some Videos I have on Youtube:
-
-* [Trip to Nanjing](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
-
-
-[![Trip to Nanjing](https://img.youtube.com/vi/Ak6ktH-OLyw/0.jpg)](https://www.youtube.com/watch?v=Ak6ktH-OLyw)
-
-* [YOUniversity Promo Video](https://www.youtube.com/watch?v=LyKZYl6nENY)
-
-[![YOUniversity Promo Video](https://img.youtube.com/vi/LyKZYl6nENY/0.jpg)](https://www.youtube.com/watch?v=LyKZYl6nENY)
-
-* [Loopring One Minute Explainer Video](https://www.youtube.com/watch?v=G4nFStAbOLM)
-
-[![Loopring One Minute Explainer Video](https://img.youtube.com/vi/G4nFStAbOLM/0.jpg)](https://www.youtube.com/watch?v=G4nFStAbOLM)
-
-* [Elastos First DApp Meetup Highlights](https://www.youtube.com/watch?v=bPWkCN8CMYc)
-
-[![Elastos First DApp Meetup Highlights](https://img.youtube.com/vi/bPWkCN8CMYc/0.jpg)](https://www.youtube.com/watch?v=bPWkCN8CMYc)
-
-* [Schwarzman Scholars Resident Assistant Application Video](https://www.youtube.com/watch?v=d9rppAA913s)
-
-[![Schwarzman Scholars Resident Assistant Application Video](https://img.youtube.com/vi/d9rppAA913s/0.jpg)](https://www.youtube.com/watch?v=d9rppAA913s)
-
-## Facebook
-
-Check out some videos that I have made on my facebook page:
-* [Bem](https://www.facebook.com/myarteregobem/)
-
