@@ -1,10 +1,12 @@
 # main links
 main:
+  - title: "Strategy Spec Work"
+    url: /Strategy/
   - title: "Social Content"
     url: /socialContent/
-  - title: "Writing Portfolio"
+  - title: "Writing"
     url: /Portfolio/
-  - title: "Cryptocurrency Tracker"
+  - title: "Crypto"
     url: /Crypto/
   - title: "Resume"
     url: /Resume/
