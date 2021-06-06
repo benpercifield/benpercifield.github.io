@@ -1,16 +1,12 @@
 # main links
 main:
-  - title: "Strategy Spec Work"
-    url: /Strategy/
-  - title: "Social Content"
-    url: /socialContent/
-  - title: "Writing"
-    url: /Portfolio/
-  - title: "Crypto"
-    url: /Crypto/
   - title: "Resume"
     url: /Resume/
-    
+  - title: "Writing Portfolio"
+    url: /Portfolio/
+  - title: "Crypto Portfolio Tracker"
+    url: /Crypto/
+
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
